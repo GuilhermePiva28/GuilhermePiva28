@@ -9,7 +9,7 @@ Apaixonado por criar aplicativos mobile com experiências incríveis e interface
 ## 📱 Meus Projetos
 
 ### 🎬 CineMind
-**Descobridor inteligente de filmes e séries**
+**Seeker inteligente de filmes e séries**
 
 Um aplicativo Flutter completo que ajuda usuários a descobrir o que assistir usando a API do TMDb.
 
