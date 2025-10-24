@@ -53,7 +53,7 @@ Um aplicativo Flutter completo que ajuda usuários a descobrir o que assistir us
 ## 📫 Contato
 
 - 📧 Email: guilhermepiva92@gmail.com
-- 💼 LinkedIn: [Guilherme Piva](https://www.linkedin.com/in/guilhermepiva28)
+- 💼 LinkedIn: [Guilherme Piva](https://www.linkedin.com/in/guilhermepiva92)
 - 🐙 GitHub: [@GuilhermePiva28](https://github.com/GuilhermePiva28)
 
 ---
