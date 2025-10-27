@@ -115,9 +115,6 @@ Um aplicativo Flutter completo e offline que ajuda usuários a nunca esquecerem 
 - 🐙 GitHub: [@GuilhermePiva28](https://github.com/GuilhermePiva28)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuilhermePiva28&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views" />
-</p>
 
 <p align="center">
   💡 <i>"Transformando ideias em aplicativos que fazem diferença na vida das pessoas"</i>
