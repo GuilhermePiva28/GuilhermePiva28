@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Guilherme Piva!
 
-## 🚀 Desenvolvedor Mobile | Flutter
+## 🚀 Desenvolvedor Full Stack | Mobile & Web
 
-Apaixonado por criar aplicativos mobile com experiências incríveis e interfaces modernas.
+Apaixonado por criar soluções completas com experiências incríveis, desde aplicativos mobile até landing pages de alta conversão.
 
 ---
 
@@ -31,6 +31,7 @@ Um aplicativo Flutter completo que ajuda usuários a descobrir o que assistir us
 - Deep Linking
 
 ---
+
 ### 💊 Tomei?
 
 **Lembrete inteligente de medicamentos**
@@ -62,42 +63,88 @@ Um aplicativo Flutter completo e offline que ajuda usuários a nunca esquecerem 
 
 **Diferenciais:**
 - Privacidade total: todos os dados armazenados localmente
-- Interface brasileira e intuitiva
+- Interface intuitiva
 - Notificações que funcionam com app fechado
 - Sistema de cores para organização visual
 
 🔗 [Ver Repositório](https://github.com/GuilhermePiva28/Tomei-)
 
 ---
+
+### 💊 OzeCaps Premium Landing Page
+
+**Landing page de alta conversão para e-commerce de suplementos**
+
+Landing page completa com sistema de checkout integrado, múltiplos métodos de pagamento e design premium.
+
+**Features:**
+
+- 🎨 Design premium com tema escuro (dark mode)
+- 🛒 Sistema de checkout integrado com carrinho
+- 💳 3 métodos de pagamento (PIX, Cartão, Boleto) integrados com gateway de pagamentos
+- 📊 Calculadora de desconto progressivo
+- 📱 Totalmente responsivo (mobile-first)
+- 🚀 Deploy automatizado (GitHub + Hostinger via FTP)
+- ⚡ Performance otimizada
+- 🎯 UX focada em conversão
+
+**Tech Stack:**
+
+- HTML5, CSS3, JavaScript (Vanilla)
+- Node.js (scripts de build e deploy)
+- FTP Deploy automation
+- PowerShell scripts
+- Git & GitHub
+
+**Destaques técnicos:**
+- Sistema de build automatizado com npm scripts
+- Deploy simultâneo para GitHub e Hostinger
+- Integração com Google Analytics e Tag Manager
+- SEO otimizado
+
+🔗 [Ver Repositório](https://github.com/GuilhermePiva28/ozecaps-site)
+🌐 [Site ao vivo](https://ozecaps.vittamedlabs.com.br)
+
+---
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Frameworks
+### Frameworks & Runtime
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Ferramentas
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermePiva28&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermePiva28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePiva28&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePiva28&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
+
 ## 💼 Especializações
 
+### Mobile Development
 - 📱 Desenvolvimento de aplicativos nativos para Android
 - 🎨 UI/UX Design com Material Design
 - 🔔 Notificações locais e push
@@ -107,6 +154,16 @@ Um aplicativo Flutter completo e offline que ajuda usuários a nunca esquecerem 
 - 🇧🇷 Localização e internacionalização (i18n)
 - 💰 Monetização com AdMob
 - 🔐 Armazenamento seguro de dados
+
+### Web Development
+- 🌐 Landing pages de alta conversão
+- 💳 Sistemas de checkout e e-commerce
+- ⚡ Performance e otimização web
+- 🎨 Design responsivo (Mobile-first)
+- 🚀 Deploy automatizado (CI/CD)
+- 📊 Integração com analytics e tracking
+- 🔧 Build tools e automação (npm, Node.js)
+
 ---
 
 ## 📫 Contato
@@ -117,6 +174,5 @@ Um aplicativo Flutter completo e offline que ajuda usuários a nunca esquecerem 
 ---
 
 <p align="center">
-  💡 <i>"Transformando ideias em aplicativos que fazem diferença na vida das pessoas"</i>
+  💡 <i>"Transformando ideias em aplicativos e websites que fazem diferença na vida das pessoas"</i>
 </p>
-
