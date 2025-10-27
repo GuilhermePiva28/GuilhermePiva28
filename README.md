@@ -67,8 +67,6 @@ Um aplicativo Flutter completo e offline que ajuda usuários a nunca esquecerem 
 - Notificações que funcionam com app fechado
 - Sistema de cores para organização visual
 
-🔗 [Ver Repositório](https://github.com/GuilhermePiva28/Tomei-)
-
 ---
 
 ### 💊 OzeCaps Premium Landing Page
@@ -102,7 +100,6 @@ Landing page completa com sistema de checkout integrado, múltiplos métodos de 
 - Integração com Google Analytics e Tag Manager
 - SEO otimizado
 
-🔗 [Ver Repositório](https://github.com/GuilhermePiva28/ozecaps-site)
 🌐 [Site ao vivo](https://ozecaps.vittamedlabs.com.br)
 
 ---
