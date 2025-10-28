@@ -133,9 +133,7 @@ Landing page completa com sistema de checkout integrado, múltiplos métodos de 
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepiva28)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepiva28)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepiva28)](https://github.com/anuraghazra/github-readme-stats](https://vercel-eta-eight-17.vercel.app/api/top-langs/?username=GuilhermePiva28&&layout=compact&theme=github_dark_dimmed&show_icons=true))
 ---
 
 ## 💼 Especializações
