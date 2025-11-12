@@ -86,8 +86,6 @@ Landing page completa com sistema de checkout integrado, múltiplos métodos de 
 - ⚡ Performance otimizada
 - 🎯 UX focada em conversão
 
----
-
 **Tech Stack:**
 
 - HTML5, CSS3, JavaScript (Vanilla)
