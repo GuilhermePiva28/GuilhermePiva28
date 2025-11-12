@@ -88,6 +88,24 @@ Landing page completa com sistema de checkout integrado, múltiplos métodos de 
 
 ---
 
+**Tech Stack:**
+
+- HTML5, CSS3, JavaScript (Vanilla)
+- Node.js (scripts de build e deploy)
+- FTP Deploy automation
+- PowerShell scripts
+- Git & GitHub
+
+**Destaques técnicos:**
+- Sistema de build automatizado com npm scripts
+- Deploy simultâneo para GitHub e Hostinger
+- Integração com Google Analytics e Tag Manager
+- SEO otimizado
+
+🌐 [Site ao vivo](https://ozecaps.vittamedlabs.com.br)
+
+---
+
 ### 🚗 QueroCarro
 
 **Buscador inteligente de veículos com integração FIPE**
@@ -120,30 +138,7 @@ Uma aplicação web moderna que ajuda usuários a encontrar o veículo ideal den
 - UX otimizada com estados vazios e feedback visual
 - Design responsivo mobile-first
 
-🌐 [Demo ao vivo](https://guilhermepiva28.github.io/QueroCarro/) 
-📦 [Repositório](https://github.com/GuilhermePiva28/QueroCarro)
-
----
-
----
-
-**Tech Stack:**
-
-- HTML5, CSS3, JavaScript (Vanilla)
-- Node.js (scripts de build e deploy)
-- FTP Deploy automation
-- PowerShell scripts
-- Git & GitHub
-
-**Destaques técnicos:**
-- Sistema de build automatizado com npm scripts
-- Deploy simultâneo para GitHub e Hostinger
-- Integração com Google Analytics e Tag Manager
-- SEO otimizado
-
-🌐 [Site ao vivo](https://ozecaps.vittamedlabs.com.br)
-
----
+🌐 [Demo ao vivo](https://guilhermepiva28.github.io/QueroCarro/)  | 📦 [Repositório](https://github.com/GuilhermePiva28/QueroCarro)
 
 ---
 
