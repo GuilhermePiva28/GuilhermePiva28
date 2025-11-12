@@ -86,6 +86,47 @@ Landing page completa com sistema de checkout integrado, múltiplos métodos de 
 - ⚡ Performance otimizada
 - 🎯 UX focada em conversão
 
+---
+
+### 🚗 QueroCarro
+
+**Buscador inteligente de veículos com integração FIPE**
+
+Uma aplicação web moderna que ajuda usuários a encontrar o veículo ideal dentro do orçamento, com preços oficiais da Tabela FIPE.
+
+**Features:**
+
+- 🎯 Busca por orçamento com faixa personalizável (±R$5.000)
+- 🚗 Suporte para carros, motos e caminhões
+- 🔍 Dois modos de busca: específica (marca+modelo) e ampla (15 marcas)
+- 📊 Agrupamento inteligente por modelo com todos os anos disponíveis
+- 💰 Valores FIPE oficiais para cada ano/combustível
+- 📈 Cálculo automático de valor médio
+- 🔗 Links diretos para 4 plataformas (Webmotors, OLX, iCarros, Mercado Livre)
+- 💾 Sistema de cache para otimização de requisições
+- ⚡ Interface responsiva com loading state e barra de progresso
+
+**Tech Stack:**
+
+- React 18 (UMD via CDN)
+- Tailwind CSS
+- Babel Standalone (JSX transpilation)
+- FIPE API REST
+- Vanilla JavaScript
+
+**Diferenciais:**
+- Single Page Application (SPA)
+- Cache inteligente para respeitar rate limits da API
+- UX otimizada com estados vazios e feedback visual
+- Design responsivo mobile-first
+
+🌐 [Demo ao vivo](https://guilhermepiva28.github.io/QueroCarro/) 
+📦 [Repositório](https://github.com/GuilhermePiva28/QueroCarro)
+
+---
+
+---
+
 **Tech Stack:**
 
 - HTML5, CSS3, JavaScript (Vanilla)
