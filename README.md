@@ -8,6 +8,49 @@ Apaixonado por criar soluções completas com experiências incríveis, desde ap
 
 ## 📱 Meus Projetos
 
+### 💰 FinexApp
+**Seu assistente inteligente de finanças pessoais**
+
+Uma aplicação web moderna e completa para gerenciamento de finanças pessoais, com suporte a cartões de crédito, metas financeiras e análise de risco de posições.
+
+**Features**
+- 📊 Dashboard inteligente com resumo financeiro em tempo real
+- 💳 Gerenciamento completo de cartões de crédito com limite e fatura
+- 💰 Controle de receitas e despesas com categorização
+- 🎯 Sistema de metas financeiras com progresso visual
+- 📈 Calculadora de risco (Position Size Calculator)
+- 🔐 Autenticação segura com Google OAuth e senha
+- 👥 Painel administrativo para gerenciar usuários
+- 💎 Sistema de planos premium com integração Stripe
+- 🎨 Tema claro/escuro automático
+- 📱 Interface responsiva e intuitiva
+
+**Tech Stack:**
+- **Frontend:** Next.js 14, React 18, TypeScript, Tailwind CSS
+- **Backend:** Next.js API Routes
+- **Banco de Dados:** PostgreSQL (Supabase) com Prisma ORM
+- **Autenticação:** Auth.js (NextAuth v5) + Google OAuth
+- **Pagamentos:** Stripe API
+- **Validação:** Zod
+- **Gráficos:** Recharts
+- **Ícones:** Lucide React
+- **Utilitários:** bcryptjs, clsx, tailwind-merge
+
+**💡 Diferenciais**
+
+- 📈 Calculadora inteligente de position size para trading
+- 💎 Sistema de planos premium com checkout Stripe
+- 👨‍💼 Painel administrativo exclusivo
+- 🗄️ Banco de dados relacional robusto com Prisma
+- 🎨 Temas visuais personalizáveis
+- 🏦 Suporte a múltiplos cartões de crédito
+- 🎯 Metas financeiras com tracking visual
+- 🔄 Transações recorrentes
+
+🌐 [Site](https://finex-app.com.br/)
+
+---
+
 ### 🎬 CineMind
 **Seeker inteligente de filmes e séries**
 
